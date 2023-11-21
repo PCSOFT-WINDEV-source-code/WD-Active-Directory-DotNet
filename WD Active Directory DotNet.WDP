@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Active Directory DotNet
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Active Directory DotNet
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Active Directory DotNet
+    internal_properties : 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
+    configuration_id : 10514786804720637906
+    type : 1
+    generation_name : WD Active Directory DotNet.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\VST01510-32-5.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4acda3d50013bd46
+  elements :
+   -
+     name : WIN_Property
+     identifier : 0x40e2ade0000122ee
+     internal_properties : CAAAAAgAAADEQiwIt+zE5871jlTrHvOdvs9lPQDP1DZOx+s2Ix13mbtbHf8Y4MQKm4dxT9cJ8efRUQ==
+     physical_name : .\WIN_Property.wdw
+     type : 2
+   -
+     name : WIN_CheckPWD
+     identifier : 0x40e2adde00001ab1
+     internal_properties : CAAAAAgAAACRbcnd6pefUBVQeaOSD9zqbxJuphsBH9lWLT6AQv4c9AAsaiL5x611NuLcJOzknAz0fA==
+     physical_name : .\WIN_CheckPWD.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x494a91c100006efd
+     internal_properties : CAAAAAgAAACU8vw4h/y0tx4FHsR7kWN1gjEJATKLVoNSCqLvXNTAGCDC+pKIcFSaa9fBP8c5wTeBgQ==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  net_assemblies :
+   -
+     name : mscorlib
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : mscorlib.dll
+   -
+     name : System
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "System, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+     physical_name : System.dll
+   -
+     name : System.DirectoryServices
+     internal_properties : CAAAAAgAAAAyTlCTdBme2sRHCGaIXE3x9C7MGISwdLb4VA==
+     description : "System.DirectoryServices, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+     physical_name : System.DirectoryServices.dll
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD Active .Net Directory.sty
+ wb_style_sheet : .\WD Active .Net Directory.wws
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      // Management of random exceptions in the program
+      WHEN EXCEPTION 
+      	Error(<§@00000000000000000000§>, <§@00000000000000000001§>)
+      	ToClipboard(ExceptionInfo(errFullDetails))
+      	EndProgram()
+      END
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Active Directory DotNet
+     identifier : 0x4acda3d5001abe11
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : An unexpected error occurred
+     index : 0
+   -
+     text :
+      en-GB : The application will be ended
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

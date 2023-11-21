@@ -1,0 +1,326 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_CheckPWD
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_CheckPWD
+ identifier : 0x286e618207225c72
+ internal_properties : CAAAAAgAAAATxc8SLnYOr8K1qZ707ybzSgAMf7Bbisp20w0dNNmsu8VNRP5OqgS7T5JyV7lapGIkkz6Gbmh7QYfqOpE+OrW6s4Ke7llZMdMzRFWli2hzlpRkXzHISAdiHWlkHpU9fcsVExsF6Gbx6X3MXJuoOhV68IbqBMtwga/zyez4vt7RzADXKYzA1LSfVhKeFPp0VpJkPdYbXP/sOS1MnozbeerPYz5DO5yvcDsm84L2ak/Ms3/t0vcIMWblILu/F0agu6SFDYmecl3wAr0oQJPHyjjvxy45SmOWRVhtL3KyI1+gqKludUT2403PPMPahJVdIQWs1nCoDrMRZZ+6ya8WQmQbqDxCYbJ0yd+B65Gz8RXtemic9c0s4o/BL3WroqwyIUNuuk8GjNtnZiwuWrzNJliRD4Cjps5hrqk5VWKQmGNL5vciKmXZcC4mcLKt9Pb1ZrG1bCGEr/IlqSpaggoQe01VLZWuEQDpLrfYxHGebqCzJH+dfEINTURra2SgYZWCws2rGxidC7y0/t/0d0mGk62EahHmnlqNuJJvkWL282wUKUO7qD2QrrfqZWvSYEGsmcCGw5bJTqVJDlMc4doeCXehFVLjpZCghDNjvyYWkOvm8zuCO4zw+6EMNi9WrARKyo0JKoWDMxZfPaIy/e+5q6pvwApQqXOElW0w7A3VztLmFPJUY2oPjzhRSssJTCEkkqbrYHRpxBElB/HnOapkzuQZt1CYLgXK6rDAr9o8VChir/MTPbtiUEQv6UGHvTwXHIlTfw4jp6oSoCRF3HacelaHw+K8nG1uvwwFx9psiA==
+ properties :
+  width : 285
+  height : 140
+  widthClient : 283
+  heightClient : 108
+ controls :
+  -
+    name : COMBO_USER
+    identifier : 0x286e618207235c72
+    internal_properties : CAAAAAgAAAC0cfYrpowLBJbE9r1bEF+zda2e6eDEAN8LGKWwG5RzwgxSs5knoityXrRRVJ/8eA0XImto5V07zGwNyAbHm87sDWePMQguoNvgQBUdF2rFYP6UzpmfNu/fwwfq0z2t5pt9+Y6kL0UOvLz4umlJTa9cvyXlXmuFP8K15nY7jBdcSiJq6tcrcZkGsqkL7yPQxb7ccl23gNWO+Pp3OUCgPIK/dB8y3ApGnS3dSc3sQXVcsFkZa8DuNNGWbiIN6u+EWBOyeRhUQgZRENWi/vgQqU8GIJxwk3mStxAhCvCADcMmYzGgQMSzj8t2M6sHF3O9HrVDq13rX61roHChalsi3PjP8zptLPvVPPmv1IuEdiPmkBxNBDYQN9z4J7cr8m2sz17a4bt0gHcV+/aBuEu+c9YQ62d6QNTS19ImkshxN4T5cN8pyV9is0ol+wFOV42VPF7KHNp5jL63N+FvvNdWCgEE2gbbXaGvJoF6BmEvr40d/NW23DVBNomIitCjLRagR/wlYgNmk9bA2pGcdX0nYvkb2CbB95epKgCN+rK8bv0R9NbHmbMgiEwV54F//OlySs84NSCn9bRZ2OFSCh7jmSOPoLXXQ5D7FN7l8KII0vZ6MQzlFs319jW0Hj9+Ewi0dlSp2ZnXu44ugYwv6AB+5SJ9IKlrXgFbXYA5jiVrXsRR5ltb78PbtQKWlUxGsmR0ZJg7hkldrHye8WSePDpbFAlskHF1I39bb8JpqXLuawWM0lYR+REGZ7bdabdPU4FsVvF7wxI0rVEDeoCMSQ8Tta5Xc+CqqRTJpBi0QNzWANNvVvHETvWr1B4x7eeLFcDqeBYBONJSnDN97fQ5Nul9zu3etAXSIZoCmVLZ+Sdxmi907SbjunCe9Y+GU/asatN4QoPZIuslCqPzNRSuHJPrhiyKHaKXZgMhdCmyJXEj8xUjSSjs6jM4wjlYhQ+pdPbG+zRuvoQke4IGUTr4z5H+1CqoTaaFUtWoDwUNvhRapMLZ2C0RC5UnvEk5HWeooVqA2lPUU7yO/3PrZed2wr1lrCU814JGTBYEJra2SRBE/cHhP6q3bGx4ghqdZ99KlDDnpUXQ4ClMQiQk8ssFSmYZz0dyt7XaXXCi0ABZEmSP1tNaqJxNv4q6f049LnNlU2oD8XOatSMiVYkFMHXmCAekKVfd9xisKVby6XXRQxww2wGDnjnWkp2rvCQ/JZEawe7iBdZWccel/7qLEWRTOeofnjFxPAAIPFoQfduwRbnfrmPQUNkWo9LJG9kqmfT9ApnMisQYianJLmIUY8qSLqbWpbzgBGwX/T8VUjIUIPb0bBB7bZIi6M3PjT1ZT2r90rxI2AirujnWnj3E0XXkJeO/bfB/rqUBUaoOojqk8gixW/c3M70zSGfefduVGo2J3t1uPCMHtcPk5UviSjNwCXbiAcEtbV8OnE0qwDUmdbplQ4LrUGO4B1eW/xVVbmSDw0QhRFjjELNqZh9KPnukbJdQ1p/Q9OTkPBu8BgzxZmvPAnRdPkePCJ8Il4nv/LskvM1K0Sc14+zgAOpnjENyvbb18aqDAM7RlpbjriRYDf5LN9yDUo9eka+S24ZHY4r46UugBjVyTngiZOUCk8ar/SODAMXJekq3lCJ1W3Lug6CEOx/dg6338cGWSI0mtT6HZ6paymMbF6dOu54crOOd1g1uF6oOtQFwuXjljEFfTnRWBHXKNZJXBpJ0QIOcS+zXyHaDphDu9M3PMHtqH3K6bqKCP+BJQtDnTrSGra4s+yPwXi/cF4V77yER
+    properties :
+     x : 6
+     y : 6
+     width : 271
+     height : 24
+    dropdown :
+     internal_properties : CAAAAAgAAACaZ9lMPz4AUhkLb2EiADVaQbKDYkDKCrBNUhXp7suC3+AIp9DdazeWa5EbsXsSiS50doXHNXjHaSGEqYe4L3w6+D+60rCHqLiT/LeBj14JWKgjrNYUa5X5aAJcypbd7dY+rv75OFz7kU9Gglcgi9TvZco7OaTNsRbVMqC4lJJoCt+ty6nlp0lLx4SWszZcGWt2Tc6Vm67/ZiQTsElVB6za8jejPUqhVcq2lqsTl39mKu+CdN+at+L3vLSm4dlMy77iHZolQd/7dEubLg+zJh+ywZXx/m61Igy/EkCU8Aa2G7ZkbZsjSzk0udMWl09pVxlr+1TGlzw00IOs0QV7IcX3Dqw835oIg/1Rxpbr0zgzHmSyOQL02MXEUtyh5xG51mywXJnemd3t6Ls+QS1xkMcEPdWAFKwnb+2frbOTTMgL0vK+eO839/OGcOdw3HkhWZQhbKzlTP8Owsp7sTzagLdz2NI/4Coa7GdHkstC58lzGik53ZCk8J5bym+enP/LHXv65YlqHJLbJG8BHd8dgYN8Z8l03M15RPXg8UfmO1Q9+vflYizfJSPBJDOQoBwQJ9/yWFLC02BVqFTtbCcdWIhvi3PzEyVuejPllmkegCaCqgqBiRcpXny8jx3E5AcBRFkEzAge3H78u8AdNYSB50Swz446SOcVAfzG37k3XQ3tC2O+0oVLsPGcZmG32j4qq0oWcSpUmjZjtiMHh0Ag0Rax9N3hTTuWsb+J2H7ja1XdtcLHqvcQGudeG6n9H1r+k5Q=
+     type : 7
+    type : 14
+    code_elements :
+     type_code : 23
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         
+        type : 33
+      -
+        type : 17
+        enabled : false
+  -
+    name : EDT_PWD
+    identifier : 0x286e618207245c72
+    internal_properties : CAAAAAgAAADVfgjZ9CdBASoPIVZm8H3CVTCZlXqUEzLQmporI180+P6CVCZVZ4fsliMJJb9S5dbQqY6wtniz1+OThJnqNvtkabrLVC7e1GeiQTc7WJzkmmPIuxJTghFRODZ3vaMBduXJFVXktBZZtF/uvyCRlUxreMHEbw4Pdn/iubhOo2+Wmskln5PMkv9uguIjhh2QHQNQH2t52zypj4q/eAagmqWmc50Do815AtzJ8hggtQke7bOM0wLr4LPQUDVv6Va2v/83WpHtaizjzYTs82Og3yE9s6ikuP3h/8B2DYvqXIYUagZn3ibC06ICDDHQ7Q0anhfR8kFfrdDb/nQCOnntwOdrMwSVt9iB9eUeJCmZl+hsABg23t52b3EhDmJfKkVBkA8uiUtCrmkcswDM++J/u9yGOTQ0KeTsPz+Xm28ueS8hgyFLF4lWLnPKM+Ot+8gJM826bHjv4qHboH6B+fmWh+2XlPxtxpSXmZXRE5rV6uPIYgsUx1LPObC3DvCNlso5kGtvJMbUqM71bCyOsaFfPyaVssdmBh1dZOmbvKdEQJA8RIv28OoKOAEclxGJ5F12ExOKyXu74pc6NSV+NXkOa/ws4P0CNZoM0hCTsLI7FlOhIcBx0q2927yrqwOeYkTQaykxUsyfKGQDr0lT76afLYy5Eh74mpq68J2W2Auo7OWNmxcKTmqO2SF9ofaeHyd5pNAx3WRpo2LJmtAh4u2vsn4qDcVt2zbtPJ5dC3oCDRuByUBo1mlRHW1F9rzrVL7IdjAcZ9E+JClsdgZ1WJwqpOTpvBxiML1MIxNyOYzdnzJCAfkFGU07Qic9MCLYCEONdLElvgOw2kZuwijTjK1gm91yEbcByLQ37pGiZyFjw4hIilXW0mKNNHHDGu5KTm1r7TLUdxkB3VNdGXSej278SNvEN4Tk8HO6MVMX9Stw4yl0XwlM3jciTABFgGhDZFoJhm78hhUU9SQTTd9IVoL5YTmlOUv38JaTBTpOpwG/hKpuN7jqnCya2k/MMWGIY0Qzok7d5Q1F4ARTpv4PVJW690a8qt5KWBfbB7SnvOJ5YdAeq3Iqayqsx9IcQMZaLkKhz5OCd7JsyPi/UlP3UlVYdm92gLsLlEs3rF+ff/mUdFKVWo+6orcPERr23Zp1oV5gUtIm0USrhWatSb8BIcew4jS/8hQKraHHlMjWN5RL8Ls1zTKUVvN3DXc0ZrKTStwg6tVdaod5FLPVfX3RMBDdgpNugCGrA0hdp3frWYRJRK/O3DRFLVWrl9G0QeKyx01soeBPGn0ZsSlwqmWZvf0AchqstpUJHQRspDohx/aFNxAG4kWPczjfxw4wmyODhGdP7/aisk4=
+    properties :
+     x : 6
+     y : 36
+     width : 269
+     height : 22
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_CHECK
+    identifier : 0x286e618207255c72
+    internal_properties : CAAAAAgAAACdwFqKd2CU2Y4ruaYBTkq26tvaJLjFakdLeLy8qzmtdcFblI8f3KlUE0bJYjONA/tgOKaIaATZgrbkEtMcm9oachxCP2HijHRp1xr+1kxvK8cfKsWpjnK03kkvC8fNLb8LgYUNoK4s/jq+LI2rRa1iVn8lrTe7l/Dk0rTRIKRZqsl/YIFOFhKVhdCsu9DdmwDgJPzGhMvbhvRSmKNv1c2XKFSUsH1uRBVhAOujOJBQhF/evwmrxNZYeGzlkNhjdo0X9UvzRnvOJey3jzwnTh75ucpez/9dp08GJyo57yUvVnZAOXDyARkLasOI3wVxryehkurh0Q7rgRSdYvyY+xCWt6hemxFGQnBCzUqg8+PCWuXme76AjVNGsQl0mqopKhvjWjxvM7zalr0XrnsRiypzgjg3XafeSClmXQ3njjFs8f/+k8/d95FYwjrb+zKhSzS4FxxFmuT7LEvv/Jk7BGKgxYt/egutAZkj5LupNWeG6O45xslLW1Ru7NAsGhkI6PtktTscSqyjiCOoXXheq8Z98fJcvx2lUgl4w6w3pyIOonmpjotzN2d8/GfXCK6wHn3bcg49lgf0dl3gbbkHS5KuS/3xQebTohz7ZpwmjoXiZfkGQ4DA6Gu+YJdmpXJ+gz3THHIotU0uAV/VuQawBUQoQNTL8zO8TsoIh2sYgI1kdFU5tmZco+wCmTupy3D1eMjtE8UqDEllBR/hPpclCwIUKBtXLcRs1c4To2L6V9LydgEaIOoHpBhkZlG9grbR75W9+hMWBUPI2WKiyxIQ1x0zk1woJUZPy64EMGsMlJaTJzpxr2LwMdRyRggz8n7U66+dUh7SbFlsgZ98S0pnNbNTE4UI/4slX4uEhToQlXIjaVhaWeENCgTfCD7wPwih2334HkOC1JVvHna+AeuVU/xIrCEX/Q2qEiIpvmOKNJQBFVh9EUEMWNAALSE/WA==
+    properties :
+     x : 57
+     y : 77
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAkI9BOoSGWiEfmCw5+g8zrL6DFOchRpGbNs28b4UO+S1M4MC0h4adn0pKT0cH+32iTYBujJ0v37tViEJu9xuWJcr2gjXisZXqDI9B2U2aD6wgnWhPjsy91HY8tnEJ1oEekayndLGtO1xT9FQ==
+        code : |1-
+         
+         // Check the login and the password
+         IF bCheckLogin(WIN_Main.EDT_DOMAIN,COMBO_USER..DisplayedValue,EDT_PWD) THEN
+         	Info(<§$0008§>)
+         ELSE
+         	Error(<§$0009§>)	
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_CLOSE
+    identifier : 0x286e618207265c72
+    internal_properties : CAAAAAgAAADxZlzKZIDPup7n49HRcSzRrkN17XbrYZp7qDHNGv6BIFg29f3prDlZ/j4iwfh2YzqZjVh7UsP2qf1SXdaeioMqWYkVQC0HWnXvfP4FV4+7ofsUn8YGAf+yRuXlqDcYn+ogPAc/p5zdTRyC9ZAc78rKKSt/SvuCEGXi4dHty+TqitLeqk/DM/t5jnmM3jebObSpaqefUyx9SGWfaKEarlp43kRGf55YGfSHDlFgRVp50QX9qp5lvy4oJM5HAG4RjM/FBz79JnUs21c3TUyONBS/L0vujSpDMJ2HOjUfKc05x70SLfc4wYhc++P9k2vRew5aNB8b005oWraFTH5QjL+QKrSOvqGwSr1wQJcxcg5oKIb/PCdcdLftmAbZuYq6Toz0E5lcOBD3EgtePx9ZE+arzSeQkli6V9rTdwg4+tZZrU8/rmGBQnTBWlGIybs3rNeFlYWNQIvAkruzj4p6lJkJhEMYAablbMZa1NnycRlt0BwxGKDWwDupWybmgCBv4X9DX5hs3+x0EMUHZADcTgMw96DcCmth7hGrLCVnJFjO60ukGngIGhh08rmkKEHfI6j99RF3GwkqqXFtPUKpprRFgMnTsrKZO5b5mVkauiSSTg+jSQd5KZS1sYxMxN0+CSa8+9923kQeI0MSQynFFDJNuEQEteNm1xZL5zS0XMpxOJOVE0K7swenuWd5XgKHnQ/Nq3accZnnMcbWe0Cz+RkWC7auNpoqgksukHJQtozKZ8gRR8RYAc9I3ItO8oo8bzmjp9CY0TDKW43KQEEgfAnJbos/pUY1tTen5nS2t0tO9SFQuul7hTKgxQQWUFMxQ+Sh6IBYhX9vtDe42lb/BjOnYs5qqYzE/EMqSITfanLSJQHeEJoSr7ldscALu4Gnfq9QroXx4eDrObuC0qbs9s25zTv9W2cZ0QRHmKYiLVRJxh2cnR++cBqM/lzRbf8jsNcz0YJOOXKYWQ==
+    properties :
+     x : 143
+     y : 77
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        code : |1-
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x24a01479db0781fe
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAB2bg5XeAnt2qbdG3G35sQ/5/G/hWCbCyVasHgzugX9B2sL48TWY8O8ov1kSZKEXf0i35YMGPIY6/CROSvwY889MFKxrrwJiY3+OXQRhCMWWOqy9c06RXxVTQo8bOTB
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABzsgKEEbkuaEiNJTJbYWeDL+D9nSHSJWDKr/49n0St+XsH3IBLAHUIwbcafQSbkkF2FUCsBfkAW0iYQxi6fi2QIX5K12sSgx/MhKGxTPAjRM3gRbnajI9KPuAc6rhFM8HuJS5DH+qsH5uG2cYfLGfCGj2TBemWX8LJ0HezGUYrR/6/QQuRJh02/1pVTMZYbgQnO0mzJGyHKPpHGxS61eoHhRECORCOZb0WVBTWXGdHwlE6htTuALspM7B7jeHKZ+O+MlPFEnRWlYN+pp0Bk8Owm4WSdB9aAzLOBFX8ENXIHYEKgo6NZYtW92XKXS+35cx7GEBOIen04Vjki2E2vgoyWtZ7HU8sJSdlVrUqZKDd52BYVpUAueWFDOJE9Sxz93Gw0S/nmWynHUjlTsjBYNAw3o6ViArRDajfetH0YA==
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE WIN_CheckPWD(gsDomain,gsUser,gsPwd)
+      
+      gclObjDirEnt is DirectoryEntry("LDAP://"+gsDomain,gsUser,gsPwd) 
+      
+      // Fill the list of users
+      FillUserList()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : FillUserList
+     internal_properties : CAAAAAgAAAAm4MLDem7dwr0U+JMWQ5ps4RHH2pzNgHDo60WVtm3RP5OExG3cc11UrkLcCb52GDKl2daK81sFWZ2JrCpDYC7Zf3UWTPRr7u3q3FieMxmwArhCN3PvYz94+QzXJmCdQihp/2iwD3kJ7JSjCPk6lm60zxIxRjgW2jkH7VBaneATzrb0bfO6C8yvp44liklD6h6OKhxrlKVOKxLDrl6YHSltR8w7QynEMK6e0wBdhlibPzN22fTIEyEnGB4ur6BHo/ehRTdgiw3tx0dh3N62K3vEOXwvlCqVt7ywmkAPenx2SnMhRt8e6sjO1lLQl6nm05RUACU5a14Q1bbUbQzMIRwtIA==
+     procedure_id : 1760451715329252466
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //FillUserList ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE FillUserList()
+      
+      // Local variables
+      clFindDirectory is DirectorySearcher(gclObjDirEnt) // NET object (DirectorySearcher) used to perform searches in the Active Directory
+      pclResultList is SearchResultCollection dynamic // .NET object (SearchResultCollection) used to retrieve all the search results
+      pclResult is SearchResult dynamic // NET SearchResult object containing ONE search result
+      sUserName is string
+      
+      //Search is a dynamic DirectorySearcher
+      clFindDirectory:Filter = "(objectClass=user)"
+      
+      
+      WHEN EXCEPTION IN
+      	// Retrieve the information
+      	pclResultList = clFindDirectory:FindAll()
+      DO
+      	// Error message
+      	Error(<§$0002§> + gsDomain,<§$0003§>)
+      	// Closes the window
+      	Close()
+      END
+      // If no result
+      IF pclResultList:count = 0 THEN
+      	// Error message
+      	Error(<§$0004§>,<§$0005§>)
+      	// Closes the window
+      	Close()
+      END
+      
+      // Upper Bound
+      nBound	is int = pclResultList:Count - 1
+      // Browse the results
+      FOR i = 0 TO nBound
+      	
+      	// Retrieves the .NET object (SearchResult)
+      	pclResult = pclResultList:get_item(i)
+      	// Extract the name
+      	sUserName = ExtractString(pclResult:path, 1, ",")
+      	// Defines the path
+      	sUserName = Replace(sUserName, "LDAP://" + gsDomain + "/CN=", "")
+      	// Search with this path
+      	clSearch is directoryEntry (pclResult:path)
+      	// Adds the name to the list
+      	ListAdd(COMBO_USER, gLink(pclResult:path) + sUserName)
+      	
+      END
+      
+      // Sorts the list by ascending order of user name
+      ListSort(COMBO_USER, True)
+     type : 458752
+   -
+     name : bCheckLogin
+     internal_properties : CAAAAAgAAABWvmpTB9BO+JdswKY7Q/X7v3sJ4i0C3NffMYSsFHq5YzywqSCDQiFg6DZffnE0pL1i7gLMHBiP6I6z/2ViP7bB1wzeOQM9aJSdWaygzxV1m9nAgTqzzIg+/7kBnyLiZOW+9OmvbI4KCXwAUH1KPbGCtwyshRqSobJGwqZuof5HEGGgHO1Dwvq8tdgA5n7VzPBOSirMJAzzaVuObpmwVnrMO/xFHHO0MygIPY045gq9v/N923qRaSwJji6ib5S1zKYGfw0znlEN35G7
+     procedure_id : 1760451715329318002
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //[ <Result> = ] bCheckLogin (<sServerAddress> is string, <sNameUserToConnect> is string, <sPassword> is string)
+      //
+      // Parameters:
+      //	sServerAddress (ANSI string): Name or IP address of the server
+      //	sNameUserToConnect (ANSI string): Name of the user who must be connected
+      //	sPassword (ANSI string): Password of the user
+      // Return value:
+      // 	boolean: True if the connection was successful
+      //			  False otherwise
+      
+      PROCEDURE bCheckLogin(LOCAL sServerAddress is string, LOCAL sNameUserToConnect is string, LOCAL sPassword is string)
+      
+      // Create the .NET object (DirectoryEntry) used to connect to the active directory
+      MyUser is DirectoryEntry (<§$0000§> + sServerAddress, sNameUserToConnect, sPassword)
+      
+      // Name of the user (property of directory entry)
+      sUserName is string
+      
+      // To check whether a password is valid, try to connect to the active directory
+      // and get the exceptions disabled by the framework, 
+      // If a member can be accessed without disabling an exception, the password is valid
+      // otherwise the password is invalid
+      
+      WHEN EXCEPTION IN
+      	// attempt to access the Name property of DirectoryEntry object
+      	sUserName = MyUser:Name
+      DO
+      	// Wrong password
+      	// return False
+      	RESULT False	
+      END
+      
+      // At this point, no exception was disabled
+      RESULT True
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : VerifMDP
+resources :
+ string_res :
+  identifier : 0x10d2c64d000b3641
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : "LDAP://"
+     index : 0
+   -
+     text :
+      en-GB : (objectClass=user)
+     index : 1
+   -
+     text :
+      en-GB : "Unable to connect to the Active Directory of "
+     index : 2
+   -
+     text :
+      en-GB : You have no sufficient rights to list the users
+     index : 3
+   -
+     text :
+      en-GB : No user found in the Active Directory
+     index : 4
+   -
+     text :
+      en-GB : "Check you rights, you may not have sufficient rights to list the users"
+     index : 5
+   -
+     text :
+      en-GB : ","
+     index : 6
+   -
+     text :
+      en-GB : /CN=
+     index : 7
+   -
+     text :
+      en-GB : Your password is valid
+     index : 8
+   -
+     text :
+      en-GB : Your password is invalid
+     index : 9
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
